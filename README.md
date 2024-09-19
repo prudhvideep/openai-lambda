@@ -1,6 +1,6 @@
 # OpenAI API Deployment on AWS Lambda
 
-A simple setp to install and deploy an OpenAi Lambda layer using docker. It handles all the setup, dependencies, and pushes the layer to AWS.
+A simple setup to install and deploy an OpenAi Lambda layer using docker. It handles all the setup, dependencies, and pushes the layer to AWS.
 
 ## Prerequisites
 
